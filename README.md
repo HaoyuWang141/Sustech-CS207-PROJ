@@ -1,2 +1,8 @@
-﻿# 2022-Spring-Sustech-Digital-Logic-Project
-2022年春季数字逻辑课程project，授课老师是刘佳琳教授，组员：王浩羽、郭一潼
+﻿# -Digital Logic Project: Cinema Management System
+ |University:|SUSTech|
+ |:---|:---|
+ |Semester:|2022 Spring|
+ |Course:|Digital Logic|
+ |Professor:|Jialin Liu(刘佳琳)|
+ |teammate:|王浩羽  郭一潼|
+ ---
