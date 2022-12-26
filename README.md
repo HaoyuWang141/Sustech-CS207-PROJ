@@ -4,5 +4,5 @@
  |Semester:|2022 Spring|
  |Course:|Digital Logic|
  |Professor:|Jialin Liu(刘佳琳)|
- |teammate:|王浩羽  郭一潼|
+ |teammates:|王浩羽  郭一潼|
  ---
