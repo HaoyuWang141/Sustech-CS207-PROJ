@@ -1,4 +1,4 @@
-﻿# -Digital Logic Project: Cinema Management System
+﻿# Digital Logic Project: Cinema Management System
  |University:|SUSTech|
  |:---|:---|
  |Semester:|2022 Spring|
